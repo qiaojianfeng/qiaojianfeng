@@ -8,17 +8,14 @@
 
 <p align="center">
   <a href="https://github.com/qiaojianfeng" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="qiaojianfeng's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=qiaojianfeng&title_color=333&text_color=777" alt="qiaojianfeng's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="qiaojianfeng's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=qiaojianfeng&hide=issues&title_color=333&text_color=777" alt="qiaojianfeng's Stats" >
     -->
   </a>
 </p>
 
 <p align="center">
-  <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
-    <img src="https://img.icons8.com/ios-filled/50/000000/weixing.png" width="28px"/>
-  </a>
   &emsp;
   <a href="###" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
